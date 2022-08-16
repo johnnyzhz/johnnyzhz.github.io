@@ -1,0 +1,73 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Johnny Zhang
+    tagline: Professor
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: zhiyongzhang@nd.edu
+    phone: (574)631-2902
+    website: bigdatalab.nd.edu #do not add http://
+    linkedin: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: https://nd.psychstat.org/_media/research/cv.zhang.pdf
+
+    languages:
+      - idiom: English
+
+      - idiom: Chinese
+
+career-profile:
+    title: Professional Statement
+    summary: |
+      Our Lab for Big Data Methodology aims to develop better statistical methods and software in the areas of education, health, management and psychology. Our most recent research involves the development of new methods for social network and big data analysis. Particularly, we have contributed to the areas of Bayesian methods, Network analysis, Big data analysis, Structural equation modeling, Longitudinal data analysis, Mediation analysis, and Statistical computing and programming.
+education:
+    - degree: Ph.D. in Quantitative Psychology
+      university: University of Virginia
+      
+    - degree: Bachelor and master in Statistics
+      university: Remin University of Notre Dame 
+      
+experiences:
+    - role: Professor
+      time: 2020 - Present
+      company: University of Notre Dame
+     
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: R
+        level: 98%
+
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: PHP
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Python
+        level: 60%
+
+      - name: LaTeX
+        level: 80%
+
+
