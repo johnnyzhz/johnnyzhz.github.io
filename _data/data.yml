@@ -26,10 +26,6 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: https://nd.psychstat.org/_media/research/cv.zhang.pdf
 
-    languages:
-      - idiom: English
-
-      - idiom: Chinese
 
 career-profile:
     title: Professional Statement
