@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Structural Equation Modeling with Network Data and Text Data
-description: with background image
+description: igSEM.org is created to provide information on an IES funded project [R305D210023](https://ies.ed.gov/funding/grantsearch/details.asp?ID=4540) to develop methods and software for network data and text data analysis.
 img: assets/img/bigsem.jpg
 importance: 1
 category: work
