@@ -1,0 +1,1 @@
+Ziqian is a 5th year Ph.D. student in Quantitative Psychology at the University of Notre Dame. Her research interests include Bayesian statistics, statistical computing, and social network analysis. She is passionate about developing statistical methods and software to analyze complex data structures. Ziqian has experience in programming with R, Python, and Stan. 
