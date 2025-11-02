@@ -2,96 +2,139 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Zhiyong Johnny Zhang, Ph.D.
+    - name: Position
+      value: Professor of Quantitative Psychology
+    - name: Institution
+      value: University of Notre Dame
+    - name: Office Address
+      value: Department of Psychology, 438 Corbett Family Hall, Notre Dame, IN 46556
+    - name: Lab Address
+      value: Lab for Big Data Methodology, 430 Corbett Family Hall, Notre Dame, IN 46556
+    - name: Phone
+      value: (574) 631-2902
+    - name: Email
+      value: zzhang4@nd.edu
+    - name: Website
+      value: https://bigdatalab.nd.edu
+    - name: Google Scholar
+      value: https://scholar.google.com/citations?user=CPT7KjUAAAAJ
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Ph.D. in Quantitative Psychology
+      institution: University of Virginia, Charlottesville, VA, USA
+      year: 2008
 
-- title: Experience
+- title: Employment
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Professor
+      institution: Department of Psychology, University of Notre Dame
+      year: 2020–Present
+    - title: Fellow
+      institution: Institute for Educational Initiatives, University of Notre Dame
+      year: 2016–Present
+    - title: Associate Professor
+      institution: Department of Psychology, University of Notre Dame
+      year: 2015–2020
+    - title: Assistant Professor
+      institution: Department of Psychology, University of Notre Dame
+      year: 2010–2015
+    - title: Research Assistant Professor
+      institution: University of Notre Dame
+      year: 2008–2010
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Barbara Byrne Award for Outstanding Book on Multivariate Analysis
+        - Best Paper Award, International Society for Data Science and Analytics
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Jacob Cohen Award for Distinguished Contributions to Teaching and Mentoring (APA Division 5)
+    - year: 2023
+      items:
+        - Joyce Award for Excellence in Undergraduate Teaching, University of Notre Dame
+    - year: 2019
+      items:
+        - Tanaka Award for Best Article in Multivariate Behavioral Research
+        - Elected Fellow, American Psychological Association (Division 5)
+    - year: 2018–2024
+      items:
+        - President, International Society for Data Science and Analytics
+    - year: 2018
+      items:
+        - SMEP Early Career Research Award
+    - year: 2016
+      items:
+        - Elected Member, Society of Multivariate Experimental Psychology
+    - year: 2007–2008
+      items:
+        - Dissertation Award, Society of Multivariate Experimental Psychology
+        - Dissertation Year Presidential Fellowship, University of Virginia
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Quantitative Psychology and Statistical Modeling
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Structural equation modeling
+        - Bayesian methods
+        - Longitudinal data analysis
+    - title: Data Science and Machine Learning
       items:
-        - Description 1.
-        - Description 2.
+        - Social network analysis
+        - Text mining
+        - AI applications in psychology
+    - title: Methodological Development
+      items:
+        - Power analysis
+        - Handling non-normal and missing data
+        - Dynamic systems modeling
 
-- title: Other Interests
-  type: list
+- title: Software Development
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: WebPower
+      year: 2015–Present
+      description: Online and R-based tools for statistical power analysis.
+    - title: WebBUGS
+      year: 2014–2018
+      description: Online Bayesian analysis platform.
+    - title: RAMpath
+      year: 2013–Present
+      description: R package for structural equation modeling using RAM notation.
+    - title: WebSEM
+      year: 2012–2018
+      description: Online platform for conducting SEM analysis.
+    - title: bmem
+      year: 2011
+      description: R package for mediation analysis with missing data.
+
+- title: Professional Service
+  type: nested_list
+  contents:
+    - title: Editorial Roles
+      items:
+        - Editor, Journal of Behavioral Data Science (2021–Present)
+        - Associate Editor (Editorial Board), Neurocomputing (2020–Present)
+        - Associate Editor, Multivariate Behavioral Research (2016–2025) 
+        - Consulting Editor (Editorial Board), Psychological Methods (2014–Present)
+    - title: Conference Organization
+      items:
+        - Chair, Annual Meeting of the International Society for Data Science and Analytics (2019-2024)
+    - title: Leadership Positions
+      items:
+        - President, International Society for Data Science and Analytics (2016–2024)
+    - title: Reviewer for Journals
+      items:
+        - Psychological Methods
+        - Journal of Educational and Behavioral Statistics
+        - Structural Equation Modeling
+        - Multivariate Behavioral Research
