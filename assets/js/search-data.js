@@ -69,11 +69,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/New-Personal-Website/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-practical-statistical-power-analysis-using-webpower-and-r",
+          title: 'Practical Statistical Power Analysis Using Webpower and R',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/webpower/";
             },},{id: "news-2026-isdsa-meeting-in-beijing",
           title: '2026 ISDSA Meeting in Beijing',
           description: "",
