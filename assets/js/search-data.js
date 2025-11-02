@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-notes-amp-articles",
-          title: "Notes &amp; Articles",
+  },{id: "nav-notes",
+          title: "Notes",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -103,7 +103,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "projects-structural-equation-modeling-with-network-data-and-text-data",
           title: 'Structural Equation Modeling with Network Data and Text Data',
-          description: "with background image",
+          description: "igSEM.org is created to provide information on an IES funded project [R305D210023](https://ies.ed.gov/funding/grantsearch/details.asp?ID=4540) to develop methods and software for network data and text data analysis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
