@@ -2,7 +2,7 @@
 layout: book-review
 title: Practical Statistical Power Analysis Using Webpower and R
 author: Zhiyong Zhang and Kai-Hua Yuan
-cover: https://webpower.psychstat.org/wiki/_media/webpower.jpg
+cover: assets/img/webpower.jpg
 isbn: 1946728020 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: Statistics, R, Power analysis
 tags: statistics, R, power-analysis
