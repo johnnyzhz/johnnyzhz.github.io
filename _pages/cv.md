@@ -7,23 +7,23 @@ nav_order: 5
 ---
 
 # Zhiyong Johnny Zhang, Ph.D.
-Professor \ 
-University of Notre Dame \ 
+Professor<br />
+University of Notre Dame<br />
 
 
 ## Contact Information
 
-**Office** \ 
-Department of Psychology \ 
-University of Notre Dame \                            
-438 Corbett Family Hall, Notre Dame, IN 46556 \                           
-Tel: (574) 631-2902; Fax: (574) 631-8883 \ 
+**Office**<br />
+Department of Psychology<br />
+University of Notre Dame<br />                           
+438 Corbett Family Hall, Notre Dame, IN 46556<br />                          
+Tel: (574) 631-2902; Fax: (574) 631-8883<br />
 
-**Lab** \ 
-430 Corbett Family Hall, Notre Dame, IN 46556 \ 
-Tel: (574)631-5882 \ 
-Email: [zzhang4@nd.edu](mailto:zzhang4@nd.edu) \ 
-Web: [https://bigdatalab.nd.edu](https://bigdatalab.nd.edu) \ 
+**Lab**<br />
+430 Corbett Family Hall, Notre Dame, IN 46556<br />
+Tel: (574)631-5882<br />
+Email: [zzhang4@nd.edu](mailto:zzhang4@nd.edu)<br />
+Web: [https://bigdatalab.nd.edu](https://bigdatalab.nd.edu)<br />
 Google Scholar: [https://scholar.google.com/citations?user=CPT7KjUAAAAJ](https://scholar.google.com/citations?user=CPT7KjUAAAAJ)
 
 ## Education
@@ -81,7 +81,7 @@ Google Scholar: [https://scholar.google.com/citations?user=CPT7KjUAAAAJ](https:/
 
 ## Selected External Grants and Sponsored Programs
 
-- Bayesian Longitudinal Data Modeling in Education Sciences. \  Begin-End Dates:       2024–2027 \  Funding source:          Institute of Education Sciences \  Role:                           Co-PI \  PI:                               Cynthia Tong, University of Virginia \  Amount:                      $792,636
-- Methods and Software for Handling Network Data and Text Data in Structural Equation Modeling.  \  Begin-End Dates:       2021–2025 \  Funding source:          Institute of Education Sciences  \  Role:                           PI (Co-PI: Ke-Hai Yuan, Lijuan Wang) \  Amount:                      $861,354
-- Structural Equation Modeling with Small N and Large p.  \  Begin-End Dates:       2015–2018 \  Funding source:          National Science Foundation  \  Role:                           Co-PI  \  PI:                               Ke-Hai Yuan, University of Notre Dame  \  Amount:                      $430,725
--  A General Framework for Statistical Power Analysis with Non-normal and Missing Data through Monte Carlo Simulation.  \  Begin-End Dates:       2014–2018  \  Funding source:          Institute of Education Sciences  \  Role:                           PI (Co-PI: Ke-Hai Yuan) \  Amount:                      $573,097 \  Internal
+- Bayesian Longitudinal Data Modeling in Education Sciences.<br /> Begin-End Dates:       2024–2027<br /> Funding source:          Institute of Education Sciences<br /> Role:                           Co-PI<br /> PI:                               Cynthia Tong, University of Virginia<br /> Amount:                      $792,636
+- Methods and Software for Handling Network Data and Text Data in Structural Equation Modeling. <br /> Begin-End Dates:       2021–2025<br /> Funding source:          Institute of Education Sciences <br /> Role:                           PI (Co-PI: Ke-Hai Yuan, Lijuan Wang)<br /> Amount:                      $861,354
+- Structural Equation Modeling with Small N and Large p. <br /> Begin-End Dates:       2015–2018<br /> Funding source:          National Science Foundation <br /> Role:                           Co-PI <br /> PI:                               Ke-Hai Yuan, University of Notre Dame <br /> Amount:                      $430,725
+-  A General Framework for Statistical Power Analysis with Non-normal and Missing Data through Monte Carlo Simulation. <br /> Begin-End Dates:       2014–2018 <br /> Funding source:          Institute of Education Sciences <br /> Role:                           PI (Co-PI: Ke-Hai Yuan)<br /> Amount:                      $573,097<br /> Internal
