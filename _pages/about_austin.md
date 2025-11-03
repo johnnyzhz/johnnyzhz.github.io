@@ -1,0 +1,1 @@
+Austin Wyman is a graduate student in quantitative psychology at the University of Notre Dame. His research interests include psychometrics, machine learning, and clinical psychology.
