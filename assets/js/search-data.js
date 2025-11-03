@@ -69,7 +69,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/New-Personal-Website/";
           
         },
-      },{id: "books-practical-statistical-power-analysis-using-webpower-and-r",
+      },{id: "books-",
+          title: '',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/isdsa/";
+            },},{id: "books-machine-learning-for-social-and-behavioral-research",
+          title: 'Machine Learning for Social and Behavioral Research',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/machine_learning/";
+            },},{id: "books-practical-statistical-power-analysis-using-webpower-and-r",
           title: 'Practical Statistical Power Analysis Using Webpower and R',
           description: "",
           section: "Books",handler: () => {
